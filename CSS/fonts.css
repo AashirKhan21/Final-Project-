@@ -1,0 +1,5 @@
+ /* font face */
+ @font-face{
+     font-family: 'Literata';
+     src: url('../fonts/static/Literata-Regular.ttf');
+ }
